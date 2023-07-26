@@ -7,7 +7,7 @@ O ONE é um programa de educação da Oracle em conjunto com a Alura!
 <p><a href="https://github.com/ViniciusPelizzari/challenge_conversor_one_t5/blob/main/out/artifacts/conversor_temperatura/temperatura.jar" download>Download JAR temperaturas</a></p>
 
 ## Conversor de moedas
-Conversor criado para facilitar a vida de quem necessita fazer a conversão de moedas. Criado o arquivo executável do projeto, é possível fazer o download atráves do link acima e executá-lo na máquina de sua preferência - desde que contenha uma versão correspondente do Java.
+Conversor criado para facilitar a vida de quem necessita fazer a conversão de moedas. Criado o arquivo executável do projeto, é possível fazer o download através do link acima e executá-lo na máquina de sua preferência - desde que contenha uma versão correspondente do Java.
 - BRL - Real Brasileiro (R$).
 - EUR - Euro (€).
 - USD - Dólar Americano ($).
