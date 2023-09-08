@@ -39,8 +39,3 @@ Como utilizar: Execute o arquivo -> selecione qual temperatura para a conversão
   <img alt="Static Badge" src="https://img.shields.io/badge/Status%20-%20Finalizado%20-%20light%20blue">
 </div>
 
-##
-<div style="display: flex; align-items: center;">
-  <img align="center" alt="logo_perfil" height="60" width="70" src="https://raw.githubusercontent.com/ViniciusPelizzari/perfil_web/main/img/1escopi-removebg-preview.png">
-  <span style="margin-left: 10px;">V_Pelizzari</span>
-</div>
